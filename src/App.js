@@ -50,6 +50,6 @@ const router = () => {
         </Route>
       </Route>
     ),
-    { basename: "/nivrutti499/Game-Show" }
+    { basename: "/Nivrutti499/Game-Show" }
   );
 };
